@@ -1,0 +1,84 @@
+{
+    "mobiles": [
+      {
+        "id": "1",
+        "image": "data:image/jpeg;base64,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",
+        "title": "Samsung Galaxy s24 Ultra",
+        "price": 139999,
+        "ram": 12,
+        "storage": 512
+      },
+      {
+        "id": "2",
+        "image": "https://lh3.googleusercontent.com/spp/AE_ITi0heczFMKYtqMgR1dgX61Bg8EjKqTNDxju2m3ECrN_SymWCJJLQ4vN5KdYxhzshhgpB0xplNL5gE62bVmdMMG5hbeNvSeItLtj0QIcGa0tQ_iYPCDLAS6s_FY0w50cnONGh7XHmWez1N8gT26Pbwe-5bgr04IyCOSSW5r45n2vsBQxI-X5NwnlwbZy1mkrzFwT24fOQ8A=s512-rw-pd-pc0x00ffffff",
+        "title": "iphone 15 pro max ",
+        "price": 159999,
+        "ram": 8,
+        "storage": 256
+      },
+      {
+        "id": "3",
+        "image": "https://i.gadgets360cdn.com/products/large/asus-rog-phone-7-asus-ultimate-db-652x800-1681391335.jpg?downsize=*:180",
+        "title": "Rog Phone 7",
+        "price": 77999,
+        "ram": 12,
+        "storage": 512
+      },
+      {
+        "id": "4",
+        "image": "https://m.media-amazon.com/images/I/41ng6Qxd3YL._SX300_SY300_QL70_FMwebp_.jpg",
+        "title": "iqoo 12 5G",
+        "price": 52999,
+        "ram": 12,
+        "storage": 256
+      },
+      {
+        "id": "5",
+        "image": "https://assets.sangeethamobiles.com/product_img/13403/1686214782_j3T.jpg",
+        "title": "realme 11 pro 5G",
+        "price": 24999,
+        "ram": 8,
+        "storage": 256
+      },
+      {
+        "id": "6",
+        "image": "https://www.fliptwirls.com/wp-content/uploads/2023/09/123-671.png",
+        "title": "Oppo F21 pro ",
+        "price": 25999,
+        "ram": 8,
+        "storage": 128
+      },
+      {
+        "id": "7",
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/s/y/5/-original-imagwu894yyhyyce.jpeg?q=70&crop=false",
+        "title": "Redmi Note 13 pro 5G",
+        "price": 25000,
+        "ram": 8,
+        "storage": 128
+      },
+      {
+        "id": "8",
+        "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/ba464d07-6062-451c-812c-f2273f84803823220807.jpg",
+        "title": "Rog Phone 6",
+        "price": 49900,
+        "ram": 8,
+        "storage": 256
+      },
+      {
+        "id": "9",
+        "image": "https://m.media-amazon.com/images/I/71o1csyQILL._AC_UF1000,1000_QL80_.jpg",
+        "title": "Samsung Galaxy A34 5G",
+        "price": 24499,
+        "ram": 8,
+        "storage": 128
+      },
+      {
+        "id": "10",
+        "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662703541/Croma%20Assets/Communication/Mobiles/Images/261930_q0hq3w.png?tr=w-360",
+        "title": "Apple Iphone 14 (Midnight)",
+        "price": 62990,
+        "ram": 6,
+        "storage": 128
+      }
+    ]
+  }
